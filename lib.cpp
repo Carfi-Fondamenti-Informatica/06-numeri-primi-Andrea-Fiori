@@ -2,8 +2,8 @@
 #include "lib.h"
 using namespace std;
 bool scm(int a, int b) {
-    a=abs(a);
-    b=abs(b);
+    int a=abs(a);
+    int b=abs(b);
     if (a==0 || a==1)
         return false;
     int rest = a % --b;

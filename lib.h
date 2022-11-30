@@ -1,5 +1,5 @@
 
-#ifndef 06-numeri-primi-Andrea-Fiori_lib_h
-#define 06-numeri-primi-Andrea-Fiori_lib_h
+#ifndef 06-NUMERI-PRIMI-ANDREA-FIORI_LIB_H
+#define 06-NUMERI-PRIMI-ANDREA-FIORI_LIB_H
 bool scm(int a, int b);
-#endif //06-numeri-primi-Andrea-Fiori_lib_h
+#endif //06-NUMERI-PRIMI-ANDREA-FIORI_LIB_H

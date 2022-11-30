@@ -1,5 +1,6 @@
-#include "iostream"
+#include <iostream>
 #include "lib.h"
+using namespace std;
 bool scm(int a, int b) {
     a=abs(a);
     b=abs(b);
